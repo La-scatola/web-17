@@ -1,0 +1,353 @@
+ * {
+	font-family:"Letter Gothic Std";
+	/*font-family:"微软雅黑";*/
+	margin:0;
+	padding:0;
+}
+hr{
+	border:1px solid #eee;
+}
+
+.Header_8{
+	background-image:url("images//p1.png");
+	background-repeat:no-repeat;
+	height:990px;
+	text-align:center;
+}
+.bg_1{
+	background-color:rgba(0,0,0,0.65);
+	height:100%;
+}
+.bg_1 h1{
+	color:#fff;
+	padding-top:210px;
+	font-size:62px;
+	font-weight:normal;
+}
+
+.bg_1 p,.bg_1 h6{
+	color:rgba(255,255,255,0.7);
+	
+	
+}
+.Header_8 .bg_1 p{
+	margin:90px auto;
+	width:760px;
+}
+.Sign_Up_Form{
+	width:970px;
+	height:250px;
+	margin:0 auto;
+	border:1px solid rgba(255,255,255,0.2);
+	border-radius:2px;
+}
+.Sign_Up_Form h4{
+	margin-top:60px;
+	color:#fff;
+	
+}
+.Sign_Up_Form input[type="text"]{
+	width:270px;
+	height:50px;
+	padding-left:22px;
+	margin-top:46px;
+	margin-right:30px;
+	background:transparent;
+	border:1px solid rgba(255,255,255,0.2);
+	border-radius:2px;
+	color:rgba(255,255,255,0.3);
+}
+.Sign_Up_Form input[type="text"]:hover,:focus{
+	color:#fff;
+}
+.Sign_Up_Form input[type="button"]{
+	width:125px;
+	height:50px;
+	background-color:#fff;
+	border:1px solid rgba(255,255,255,0.2);
+	border-radius:2px;
+}
+
+.Feature_9{
+	height:710px;
+	text-align:center;
+	
+}
+.Feature_9 h3{
+	padding-top:90px;
+	
+	font-size:14px;
+}
+.Feature_9 h2{
+	font-size:42px;
+	width:770px;
+	margin:45px auto;
+	
+}
+.Feature_9 .Features{
+	text-align:left;
+	width:1040px;
+	margin:0 auto;
+}
+.Feature_9 .Features h4{
+	font-size:20px;
+	
+}
+.Feature_9 .Features .Iphone,.Check,.Pencil,.Settings{
+	width:390px;
+	padding-left:60px;
+	background-position:left top;
+	background-repeat:no-repeat;
+	margin:45px auto;
+}
+.Feature_9 .Features .Iphone{
+	background-image:url(images//Iphone_Icon.png);
+	float:left;
+}
+.Feature_9 .Features .Check{
+	background-image:url(images//Check_Icon.png);
+	float:right;
+}
+.Feature_9 .Features .Pencil{
+	background-image:url(images//Pencil_Icon.png);
+	float:left;
+}
+.Feature_9 .Features .Settings{
+	background-image:url(images//Settings_Icon.png);
+	float:right;
+}
+
+.action_7{
+	height:800px;
+	background:url("images//p2.png");
+	
+}	
+.action_7 .left{
+	width:850px;
+	padding-top:180px;
+	float:left;
+}
+.action_7 .left h2 ,.action_7 .left p{
+	width:380px;
+	margin:0 auto;
+}
+.action_7 .left h2{
+	font-size:35px;
+	color:#fff;
+}
+.action_7 .left p{
+	margin-top:90px;
+	font-size:18px;
+}
+.action_7 .left button{
+	width:240px;
+	height:60px;
+	background:transparent;
+	border:1px solid rgba(255,255,255,0.2);
+	border-radius:2px;
+	color:#fff;
+	margin:60px 15px;
+}
+.action_7 .left .act{
+	margin-left:220px;
+}
+.action_7 img{
+	float:right;
+	margin-top:160px;
+	border:1px solid rgba(255,255,255,0.2);
+	border-radius:30px 0 0 30px;
+	border-right:0;
+	padding:25px 0 25px 48px;
+}
+
+.Feature_19{
+	height:580px;
+	text-align:center;
+}
+.Feature_19 h2{
+	padding:90px 0;
+}
+.Feature_19 article{
+	width:70%;
+	display:flex;
+	margin:0 auto;
+}
+.Feature_19 article p{
+	width:80%;
+	padding-left:10%;
+	color:#666;
+	font-family:"Comic Sans MS";
+	font-weight:lighter;
+}
+.Feature_19 .Singleton,.Feature_19 .Hero,.Feature_19 .Portland{
+	padding-top:60px;
+	
+	
+}
+.Singleton{
+	background:url(images//Singleton.png);
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.Hero{
+	background:url(images//Hero.png);
+	background-position:top;
+	background-repeat:no-repeat;
+}
+.Portland{
+	background:url(images//Portland.png);
+	background-position:top;
+	background-repeat:no-repeat;
+}
+
+.Feature_14{
+	height:900px;
+	padding-top:100px;
+}
+.Feature_14 h4{
+	margin-bottom:40px;
+	padding-top:80px;
+}
+.Feature_14 .Learn{
+	width:310px;
+	height:350px;
+	
+	padding-left:700px;
+	margin:0 auto;
+	background:url("images//p3.png");
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+.Feature_14 .Choose{
+	width:310px;
+	height:350px;
+	padding-right:700px;
+	margin:80px auto;
+	background:url("images//p4.png");
+	background-position:right top;
+	background-repeat:no-repeat;
+}
+
+.Team_4{
+	height:1000px;
+	text-align:center;
+	margin-top:80px ;
+}
+.Team_4 p{
+	width:700px;
+	margin:40px auto;
+}
+.Team_4 img{
+	margin:15px;
+}
+.Tommy:{
+	background:rgba(0,0,0,0.65);
+	display:inline;
+}
+
+.Contact_1{
+	height:700px;
+	display:flex;
+}
+.Contact_1 form{
+	margin:70px 15px 0 193px;
+	width:470px;
+	height:560px;
+	border:1px solid rgba(0,0,0,0.2);
+	border-radius:2px;
+}
+.Contact_1 form h4{
+	text-align:center;
+	margin:45px auto;
+}
+.Contact_1 form input[type="text"]{
+	padding-left:20px;
+	margin:0 50px 30px 50px;
+	width:350px;
+	height:50px;
+	color:#ccc;
+
+}
+.Contact_1 form input[type="button"]{
+	text-align:center;
+	width:374px;
+	height:50px;
+	background:#000;
+	color:#fff;
+	border:1px solid rgba(0,0,0,0.2);
+	border-radius:2px;
+	margin:0 50px 30px 50px;
+}
+.Contact_1 form textarea{
+	width:352px;
+	padding-left:20px;
+	height:140px;
+	line-height:50px;
+	margin:0 50px 30px 50px;
+	color:#ccc;
+}
+.Contact_1 .cont{
+	margin:70px 0px 0px 130px;
+	width:360px;
+}
+.Contact_1 .cont h2{
+	font-size:42px;
+	margin:70px 0 40px 0;
+}
+.Contact_1 .cont ul{
+	margin-top:70px;
+	
+	list-style:none;
+}
+.Contact_1 .cont ul li:nth-of-type(1){
+	background-image:url("images//Map_Icon.png");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+.Contact_1 .cont ul li:nth-of-type(2){
+	background-image:url("images//Phone_Icon.png");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+.Contact_1 .cont ul li:nth-of-type(3){
+	background-image:url("images//Mail_Icon.png");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+.Contact_1 .cont ul li{
+	margin-bottom:30px;
+	padding-left:40px;
+
+}
+
+footer{
+	padding:90px;
+	display:flex;
+	height:250px;
+	background:#000;
+	color:rgba(255,255,255,0.3);
+}
+footer h4{
+	color:#fff;
+	margin:20px 60px;
+	
+}
+footer ul{
+	width:80%;
+	list-style:none;
+}
+footer p{
+	width:230px;
+	margin:20px 60px;
+}
+footer ul li{
+	width:150px;
+	margin:20px 60px;
+}
+footer .coins{
+	margin-left:60px;
+}
+
+
+
+
